@@ -55,9 +55,9 @@ public class DBHandler {
         }
     }
 
-    public static void insertOrder(int customerId, CustomerType customerType, double price) {
+    public static void insertOdrer(int customerId, CustomerType customerType, double price) {
         try {
-            String sqlInsert = "INSERT INTO torder (customer_id, customer_type, price)" +
+            String sqlInsert = "INSERT INTO todrer (customer_id, customer_type, price)" +
                     " VALUES (?, ?, ?);";
 
             PreparedStatement preparedStatement = connect.prepareStatement(sqlInsert);

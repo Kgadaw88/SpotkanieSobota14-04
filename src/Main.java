@@ -18,7 +18,7 @@ public class Main {
                     RandomDataGenerator.randomNip(),
                     RandomDataGenerator.randomNationality());
 
-            DBHandler.insertOrder(random.nextInt(1000)+1,
+            DBHandler.insertOdrer(random.nextInt(1000)+1,
                     RandomDataGenerator.randomCustomerType(),
                     random.nextDouble());
         }
