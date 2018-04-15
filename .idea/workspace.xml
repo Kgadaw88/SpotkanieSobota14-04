@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80ab25a5-18e0-4075-ad3d-b7550e5f7b50" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Sobota14.04.iml" afterPath="$PROJECT_DIR$/Sobota14.04.iml" />
       <change beforePath="$PROJECT_DIR$/out/production/Sobota14.04/DBHandler.class" afterPath="$PROJECT_DIR$/out/production/Sobota14.04/DBHandler.class" />
       <change beforePath="$PROJECT_DIR$/out/production/Sobota14.04/Main.class" afterPath="$PROJECT_DIR$/out/production/Sobota14.04/Main.class" />
-      <change beforePath="$PROJECT_DIR$/src/CustomerType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/DBHandler.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/RandomDataGenerator.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -269,7 +262,7 @@
       <workItem from="1523693070184" duration="8007000" />
       <workItem from="1523705054792" duration="1462000" />
       <workItem from="1523715797556" duration="25000" />
-      <workItem from="1523788201933" duration="3046000" />
+      <workItem from="1523788201933" duration="3091000" />
     </task>
     <task id="LOCAL-00001" summary="Sobota14.04">
       <created>1523706019906</created>
@@ -278,11 +271,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523706019906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update to MAVEN">
+      <created>1523798763978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523798763994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12540000" />
+    <option name="totallyTimeSpent" value="12585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -328,7 +328,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sobota14.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sobota14.04" />
+    <MESSAGE value="Update to MAVEN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to MAVEN" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
